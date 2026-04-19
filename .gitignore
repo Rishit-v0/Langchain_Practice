@@ -1,0 +1,27 @@
+# Python
+virtual/
+virtual
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+
+# IDE
+.idea/
+.vscode/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+logs/
+# Misc
+*.log
+*.sqlite3
+
