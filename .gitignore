@@ -25,3 +25,5 @@ logs/
 *.log
 *.sqlite3
 
+chroma_db/
+
